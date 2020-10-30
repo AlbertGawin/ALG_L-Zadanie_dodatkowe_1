@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604063005 source:d:\studia\algorytmy\kod\wyszukiwanie_liniowe\main.cpp
+	"Skrypt.h"
+
+1604069064 d:\studia\algorytmy\kod\wyszukiwanie_liniowe\include\skrypt.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<chrono>
+
+1604068796 source:d:\studia\algorytmy\kod\wyszukiwanie_liniowe\src\skrypt.cpp
+	"Skrypt.h"
+
